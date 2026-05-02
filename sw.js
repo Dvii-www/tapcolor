@@ -1,6 +1,6 @@
 // ✏️ EDITABLE: cambia este número cada vez que subas una actualización
 // Esto fuerza a que todos los usuarios reciban la versión nueva
-const VERSION = 'tapcolor-v2';
+const VERSION = 'tapcolor-v3';
 
 const ASSETS = [
   './',
